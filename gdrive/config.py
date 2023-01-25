@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "5933343275:AAGgIKDW1mVEpByhugAu71LhSCZKrNaW0d8"
+    APP_ID = "23659571"
+    API_HASH = "26b3566d2023cc744d89bcda5909e945"
+    DATABASE_URL = "postgresql://postgres:6MXghRW0PhOTMQ9YYYj3@containers-us-west-158.railway.app:7810/railway"
     SUDO_USERS = "" # Separated by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "812895345784-f4a0aduesof320sbr5h857dlepoeiabk.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
